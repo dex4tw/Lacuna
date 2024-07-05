@@ -1,4 +1,6 @@
-' Lacuna Launcher '
+"""
+Lacuna 'Lacuna Launcher'
+"""
 import os, requests, ctypes
 winDLL = ctypes.windll
 user32 = winDLL.user32
